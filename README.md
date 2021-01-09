@@ -8,6 +8,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 - Java
 - TypeScript
+- Sql
 - Css
 - React
 - Html
